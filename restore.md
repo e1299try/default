@@ -29,8 +29,6 @@ User git
 PreferredAuthentications publickey
 IdentityFile D:/Users/try/ssh/try@git-xD5c7S
 # git clone -b dev0 git@dev.try.github.com:e1299try/default.git
-# git clone -b dev0 git@dev.try.github.com:e1299try/okay-user-data.git
-# git clone -b dev0 git@dev.try.github.com:e1299try/try-user-data.git
 
 ~~~
 
@@ -44,8 +42,7 @@ Port 43522
 User git
 PreferredAuthentications publickey
 IdentityFile D:/Users/try/ssh/try-repo@git-bR7d0O
-# git clone -b dev0 git@47.242.238.114:/data/gitrepo/frog-user-data.git
-# git clone -b dev0 git@47.242.238.114:/data/gitrepo/tag-user-data.git
+# git clone -b dev0 git@47.242.238.114:/data/gitrepo/default.git
 
 ~~~
 
