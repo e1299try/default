@@ -1,7 +1,7 @@
 # Restore
 
 ## default
-try_default -> restore.md
+try@default -> restore.md
 
 ~~~
 URL:    https://github.com/e1299try/default/blob/dev0/restore.md
@@ -9,7 +9,7 @@ URL:    https://github.com/e1299try/default/blob/dev0/restore.md
 ~~~
 
 ## ftp
-ftp -> try_git
+ftp -> try@git-xD5c7S
 
 ~~~
 URL：   http://47.242.238.114:43580/ftp/
@@ -17,17 +17,18 @@ User:   ftp1599
 Pwd：   **********
 
 KEY：   http://47.242.238.114:43580/ftp/root/try@git-xD5c7S.txt
+
 ~~~
 
 ## 【app_data】
-try_git -> try-user-data
+try@git-xD5c7S -> try_etc
 
 ~~~
 Host dev.try.github.com
 HostName github.com
 User git
 PreferredAuthentications publickey
-IdentityFile D:/Users/try/ssh/try@git-xD5c7S
+IdentityFile D:/Datas/Etc/e1299try/ssh/try@git-xD5c7S
 # git clone -b dev0 git@dev.try.github.com:e1299try/default.git
 
 ~~~
@@ -41,7 +42,7 @@ HostName 47.242.238.114
 Port 43522
 User git
 PreferredAuthentications publickey
-IdentityFile D:/Users/try/ssh/try-repo@git-bR7d0O
+IdentityFile D:/Datas/Etc/e1299try/ssh/try_repo@git-bR7d0O
 # git clone -b dev0 git@47.242.238.114:/data/gitrepo/default.git
 
 ~~~
