@@ -43,7 +43,7 @@ Port 43522
 User git
 PreferredAuthentications publickey
 IdentityFile Z:/Datas/Etc/e1299_try_etc/ssh/try_repo@git-bR7d0O
-# git clone -b dev0 git@47.242.238.114:/data/gitrepo/default.git
+# git clone -b dev0 git@47.242.238.114:/www/gitrepo/default.git
 
 ~~~
 
