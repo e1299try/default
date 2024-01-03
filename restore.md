@@ -24,12 +24,12 @@ KEY：   http://47.242.238.114:43580/ftp/root/try@git-xD5c7S.txt
 try@git-xD5c7S -> try_etc
 
 ~~~
-Host dev.try.github.com
+Host try.github.com
 HostName github.com
 User git
 PreferredAuthentications publickey
-IdentityFile Z:/Datas/Etc/e1299_try_etc/ssh/try@git-xD5c7S
-# git clone -b dev0 git@dev.try.github.com:e1299try/default.git
+IdentityFile E:/Datas/Etc/e1299_try_etc/ssh/try@git-xD5c7S
+# git clone -b dev0 git@try.github.com:e1299try/default.git
 
 ~~~
 
